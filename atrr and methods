@@ -1,0 +1,26 @@
+#object oriented programming in python.
+#to create student class that takes names and marks of 3 subjects take in as arguements in contructer and create method to calculate their average.
+basic structure is to first create class and , method to find out their average and later obj attr for their name and marks.
+.
+.
+.
+.
+class Student():
+   def subjects = 'maths,Science, CS':
+   def average(self):
+      return self.average
+   def_init_(self,name,sub1marks, sub2marks, sub3marks):
+      self.name = name
+      self.sub1marks = sub1marks
+      self.sub2marks = sub2marks
+      self.sub3marks = sub3marks
+s1 = Student('karan',97,87,98)
+s1.average()
+print(s1.name,s1.sub1,s1.sub2,s1.sub3)
+s2 = Student('loko',87,77,99)
+s2.average()
+print(s2.name,s2.sub1,s2.sub2,s2.sub3)
+s3 = Student('bing',99,70,100)
+s3.average()
+print(s3.name,s3.sub1,s3.sub2,s3.sub3)
+   
